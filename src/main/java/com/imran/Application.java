@@ -13,5 +13,8 @@ public class Application {
                    int i = 10;
 		    run.close();
 	}
-
+              //HIS-200 related changes
+               public void doProcess(){
+                     //logic goes here
+                }
 }
